@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Udemy Course Code\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj": {}
+    "C:\\Users\\tamarix\\source\\repos\\Ussaman\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Udemy Course Code\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj": {
+    "C:\\Users\\tamarix\\source\\repos\\Ussaman\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Udemy Course Code\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj",
+        "projectUniqueName": "C:\\Users\\tamarix\\source\\repos\\Ussaman\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj",
         "projectName": "WazeCredit",
-        "projectPath": "D:\\Projects\\Udemy Course Code\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj",
+        "projectPath": "C:\\Users\\tamarix\\source\\repos\\Ussaman\\DI\\WazeCredit\\WazeCredit\\WazeCredit.csproj",
         "packagesPath": "C:\\Users\\tamarix\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Udemy Course Code\\DI\\WazeCredit\\WazeCredit\\obj\\",
+        "outputPath": "C:\\Users\\tamarix\\source\\repos\\Ussaman\\DI\\WazeCredit\\WazeCredit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
