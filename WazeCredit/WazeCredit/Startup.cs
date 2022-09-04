@@ -41,6 +41,7 @@ namespace WazeCredit
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddTransient<IMarketForecaster, MarketForecasterV2>();
+           // services.AddSingleton<IMarketForecaster>(new MarketForecasterV2());
 
             services.AddAppSettingsConfig(Configuration);
 
